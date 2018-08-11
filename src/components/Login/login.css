@@ -1,0 +1,47 @@
+.container-login{
+  width: 400px;
+  border: 3px solid #f5f5f5;
+  padding: 30px 50px;
+  margin: auto;
+  position: relative;
+}
+.login-head{
+  text-align: center;
+  color: #333333;
+  font-size: 14px;
+}
+  .login-head h1{
+    text-transform: capitalize;
+    color: #414141;
+    font-size: 24px;
+    padding: 3px 0;
+    margin: 0;
+  }
+.ui.button.login-btn{
+  background-color: #05539f;
+  color: #fff;
+  width: 100%;
+  padding: 15px 0;
+  text-transform: uppercase;
+  border-radius: 3px;
+  margin-top: 5px;
+  font-size: 20px;
+  font-weight: 500;
+  -webkit-transition: all .3s; /* Safari */
+  transition: all .3s;
+}
+.ui.button.login-btn:hover{
+  background-color: #055eb5;
+}
+.user-credential{
+  padding: 10px 0;
+  margin-bottom: 8px;
+}
+
+.welcome-msg{
+  text-align: center;
+  color: #18becb;
+}
+  .welcome-msg i.icon{
+    color: #18becb;
+  }

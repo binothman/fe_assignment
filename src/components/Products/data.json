@@ -1,0 +1,22 @@
+{
+  "products":[
+    {
+      "id": 1,
+      "image": "/assets/img/product.png",
+      "title": "phone 6 Black",
+      "price": "AED 1000"
+    },
+    {
+      "id": 2,
+      "image": "/assets/img/product.png",
+      "title": "phone 6 Black",
+      "price": "AED 1000"
+    },
+    {
+      "id": 3,
+      "image": "/assets/img/product.png",
+      "title": "phone 6 Black",
+      "price": "AED 1000"
+    }
+  ]
+}

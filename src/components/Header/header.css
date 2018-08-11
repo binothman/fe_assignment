@@ -1,0 +1,25 @@
+.top-header{
+  padding: 30px 0;
+}
+.ui.icon.search.input>input{
+  background: #f0f7fe;
+  border: 0;
+  height: 40px;
+  width: 50px;
+  -webkit-transition: all .3s; /* Safari */
+  transition: all .3s;
+}
+  .ui.icon.search.input>input:focus{
+    width: 200px;
+  }
+.ui.icon.search.input>i.icon{
+  color: #05539f;
+  width: 50px;
+}
+
+@media only screen and (max-width: 550px) {
+  .header-search{
+    position: absolute;
+    right: 0;
+  }
+}
